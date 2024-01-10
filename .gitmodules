@@ -1,0 +1,3 @@
+[submodule "Omnichain_Staking_Contract"]
+	path = Omnichain_Staking_Contract
+	url = https://github.com/chiemezie1/Omnichain_Staking_Contract
